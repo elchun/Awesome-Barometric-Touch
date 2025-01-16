@@ -1,0 +1,1 @@
+python3 generation/generate_markdown_from_tsv.py
