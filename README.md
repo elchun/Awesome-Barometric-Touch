@@ -3,6 +3,8 @@
 
 This is a collection of all tactile sensors which are based on MEMS barometers.  To add your paper, please submit an issue with the necessary details.
 
+---
+
 ### [Location and Orientation Super-Resolution Sensing With a Cost-Efficient and Repairable Barometric Tactile Sensor](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10770605) (2024)
 
 Jian Hou, Xin Zhou, Adam Spiers

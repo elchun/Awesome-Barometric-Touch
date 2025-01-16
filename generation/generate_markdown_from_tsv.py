@@ -22,6 +22,8 @@ def make_prolouge():
 # Awesome Barometric Touch [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This is a collection of all tactile sensors which are based on MEMS barometers.  To add your paper, please submit an issue with the necessary details.
+
+---
 """
 
 
