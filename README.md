@@ -40,7 +40,7 @@ Thijs Van Hauwermeiren, Anatolii Sianov, Annelies Coene, Guillaume Crevecoeur
 ```
 ### [Design, Characterization, and Modeling of Barometric Tactile Sensors for Underwater Applications](https://ieeexplore.ieee.org/document/10121983) (2023)
 
-Aiden Shaevitz1, Matthew L. Johnston1, Joseph R. Davidson
+Aiden Shaevitz, Matthew L. Johnston, Joseph R. Davidson
 ```
 @inproceedings{shaevitz2023design,
    title={Design, characterization, and modeling of barometric tactile sensors for underwater applications},
